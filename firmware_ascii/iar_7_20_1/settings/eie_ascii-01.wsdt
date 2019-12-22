@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>eie_ascii-01/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>270</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>26</ColumnWidth0><ColumnWidth1>1391</ColumnWidth1><ColumnWidth2>371</ColumnWidth2><ColumnWidth3>92</ColumnWidth3></Build><Find-in-Files><ColumnWidth0>569</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>854</ColumnWidth2><ColumnWidth3>379</ColumnWidth3></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1856</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15058-8790</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>eie_ascii-01</ExpandedNode><ExpandedNode>eie_ascii-01/Application</ExpandedNode><ExpandedNode>eie_ascii-01/Application/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-25054-9012</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-11420-10700</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-9155-23253</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\firmware_common\application\user_app1.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>136</YPos2><SelStart2>6804</SelStart2><SelEnd2>6804</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\firmware_common\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>48</YPos2><SelStart2>2776</SelStart2><SelEnd2>2776</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02903290><key>iaridepm.enu1</key></Toolbar-02903290></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>728</Bottom><Right>344</Right><x>-2</x><y>-2</y><xscreen>160</xscreen><yscreen>147</yscreen><sizeHorzCX>83333</sizeHorzCX><sizeHorzCY>150000</sizeHorzCY><sizeVertCX>180208</sizeVertCX><sizeVertCY>744898</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>204</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>206</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>210204</sizeHorzCY><sizeVertCX>83333</sizeVertCX><sizeVertCY>150000</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
