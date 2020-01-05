@@ -140,7 +140,7 @@ State Machine Function Definitions
 /* What does this state do? */
 static void UserApp1SM_Idle(void)
 {
-  static u8 ledsState=254;
+  static u8 ledsState=0;
   static u16 time=100;
   time--;
   if(time==0)
